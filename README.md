@@ -5,6 +5,7 @@
 
 
 ![image](https://github.com/wpf-flash/Ubuntu_DNS_problem/blob/main/QQ%E6%88%AA%E5%9B%BE20230321150251.png)
+
 方法二亲测有效！！！
 
 ![image](https://github.com/wpf-flash/Ubuntu_DNS_problem/blob/main/QQ%E6%88%AA%E5%9B%BE20230321151541.png)
